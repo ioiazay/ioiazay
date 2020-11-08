@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Fajar Nurhakim</h1>
 <h3 align="center">Mobile & Artificial Intelligence Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://port.ioiaid.com/](https://port.ioiaid.com/)
+- 💻 All of my projects are available at [https://port.ioiaid.com/](https://port.ioiaid.com/)
 
 - 📝 I regulary write articles on [https://ai.ioiaid.com/](https://ai.ioiaid.com/)
 
@@ -10,6 +10,8 @@
 - 📄 Know about my experiences [https://port.ioiaid.com/](https://port.ioiaid.com/)
 
 - ⚡ Fun fact **just ordinary alien**
+
+- 👨‍ More about me [https://port.ioiaid.com/p/about.html](https://port.ioiaid.com/p/about.html)
 
 <br> </br>
 
