@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fajar Nurhakim</h1>
+<h1 align="center">Hola 👋, I'm Fajar Nurhakim</h1>
 <h3 align="center">Mobile & Artificial Intelligence Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://port.ioiaid.com/](https://port.ioiaid.com/)
@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **just ordinary alien**
 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ioiazay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ioiazay" height="30" width="40" /></a>
