@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://port.ioiaid.com/](https://port.ioiaid.com/)
 
-- ⚡ Fun fact **just ordinary alien**
+- ⚡ Fun fact **just an ordinary alien**
 
 - 👨‍ More about me [https://port.ioiaid.com/p/about.html](https://port.ioiaid.com/p/about.html)
 
@@ -27,7 +27,6 @@
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
