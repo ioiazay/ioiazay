@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [https://ai.ioiaid.com/](https://ai.ioiaid.com/)
 
-- 📫 How to reach me **my.ioiaid@gmail.com**
+- 📫 How to reach me **id.ioiazay@gmail.com**
 
 - 📄 Know about my experiences [https://port.ioiaid.com/](https://port.ioiaid.com/)
 
