@@ -5,11 +5,9 @@
 
 - 📫 How to reach me **olaozay@gmail.com**
 
-- 📄 Know about my experiences [https://port.ioiaid.com/](https://port.ioiaid.com/)
-
 - ⚡ Fun fact **just an ordinary alien**
 
-- 👨‍ More about me [https://po.olaovic.com/](https://po.olaovic.com/)
+- 👨‍ More about me [https://po.olaovic.com/p/about.html](https://po.olaovic.com/p/about.html)
 
 <br> </br>
 
