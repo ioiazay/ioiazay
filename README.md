@@ -1,17 +1,15 @@
 <h1 align="center">Hola 👋, I'm Fajar Nurhakim</h1>
 <h3 align="center">Mobile & Artificial Intelligence Enthusiast</h3>
 
-- 💻 All of my projects are available at [https://port.ioiaid.com/](https://port.ioiaid.com/)
+- 💻 All of my projects are available at [https://po.olaovic.com/](https://po.olaovic.com/)
 
-- 📝 I regulary write articles on [https://ai.ioiaid.com/](https://ai.ioiaid.com/)
-
-- 📫 How to reach me **id.ioiazay@gmail.com**
+- 📫 How to reach me **olaozay@gmail.com**
 
 - 📄 Know about my experiences [https://port.ioiaid.com/](https://port.ioiaid.com/)
 
 - ⚡ Fun fact **just an ordinary alien**
 
-- 👨‍ More about me [https://port.ioiaid.com/p/about.html](https://port.ioiaid.com/p/about.html)
+- 👨‍ More about me [https://po.olaovic.com/](https://po.olaovic.com/)
 
 <br> </br>
 
