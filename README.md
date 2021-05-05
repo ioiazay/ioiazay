@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Fajar Nurhakim</h1>
-<h3 align="center">Mobile & Artificial Intelligence Enthusiast</h3>
+<h3 align="center">Software Developer</h3>
 
 - 💻 All of my projects are available at [https://po.olaovic.com/](https://po.olaovic.com/)
 
